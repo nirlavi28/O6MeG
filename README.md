@@ -1,4 +1,5 @@
 **Description of the files**
+I suspect that the reads where O6MeG were identified as G are not really modified. Therefore this branch.
 
 **Random Sequences Selection for Reference.ipynb** - After the basecalling of the randomers, we need to align to a reference. The code takes the reads,
 searching for the patterns that occur in the designed artificial reads and writes a reference accordingly.
